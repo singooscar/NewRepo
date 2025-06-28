@@ -1,0 +1,11 @@
+C:\Users\oscar\OneDrive\Escritorio\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD\bin\Debug\KARDEX_FUNCIONAL_BDD.exe.config
+C:\Users\oscar\OneDrive\Escritorio\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD\bin\Debug\KARDEX_FUNCIONAL_BDD.exe
+C:\Users\oscar\OneDrive\Escritorio\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD\bin\Debug\KARDEX_FUNCIONAL_BDD.pdb
+C:\Users\oscar\OneDrive\Escritorio\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD\obj\Debug\KARDEX_FUNCIONAL_BDD.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive\Escritorio\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD\obj\Debug\KARDEX_FUNCIONAL_BDD.Form1.resources
+C:\Users\oscar\OneDrive\Escritorio\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD\obj\Debug\KARDEX_FUNCIONAL_BDD.Properties.Resources.resources
+C:\Users\oscar\OneDrive\Escritorio\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD\obj\Debug\KARDEX_FUNCIONAL_BDD.csproj.GenerateResource.cache
+C:\Users\oscar\OneDrive\Escritorio\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD\obj\Debug\KARDEX_FUNCIONAL_BDD.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD\obj\Debug\KARDEX_FUNCIONAL_BDD.exe
+C:\Users\oscar\OneDrive\Escritorio\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD\obj\Debug\KARDEX_FUNCIONAL_BDD.pdb
+C:\Users\oscar\OneDrive\Escritorio\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD-master\KARDEX_FUNCIONAL_BDD\obj\Debug\KARDEX_FUNCIONAL_BDD.exe.config
